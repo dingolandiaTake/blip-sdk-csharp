@@ -19,7 +19,7 @@ resources:
   - repository: templates
     type: git
     name: Operações/template-take-blip
-    ref: refs/tags/v1.3.7
+    ref: refs/heads/feature/fix-dotnetNuget
 
 extends:
   template: template-pipeline.yml@templates    
